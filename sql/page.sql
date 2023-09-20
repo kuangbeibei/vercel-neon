@@ -1,3 +1,3 @@
 CREATE TABLE page (
-    handle VARCHAR(100) PRIMARY KEY,
-);
+    handle VARCHAR(100) PRIMARY KEY
+)
