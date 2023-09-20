@@ -23,6 +23,11 @@
     "sqlstring": "^2.3.3",
     "tailwindcss": "3.3.3",
     "typescript": "5.2.2",
+    "uuid": "^9.0.1",
     "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@types/sqlstring": "^2.3.0",
+    "@types/uuid": "^9.0.4"
   }
 }
